@@ -3,6 +3,7 @@ package com.example.lab08;
 public class City {
 
     //somecomment
+    //someothercomment
     private String city;
     private String province;
 
